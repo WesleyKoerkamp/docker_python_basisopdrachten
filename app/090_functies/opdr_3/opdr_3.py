@@ -2,16 +2,17 @@
 # Naam student: Wesley Koerkamp
 # Groep: 4ITX1
 
+import math
 
 def kubus_vol(m):
     # je code komt hier
     # het woordje pass hieronder kun je weghalen
-    pass
+    return m ** 3
 
 def bol_vol(r):
     # je code komt hier
     # het woordje pass hieronder kun je weghalen
-    pass
+    return (4/3) * math.pi * (r ** 3)
 
 zijde = 5
 radius = 4
