@@ -1,6 +1,6 @@
 # Opdracht 2 lists
-# Naam student:
-# Groep:
+# Naam student: Wesley Koerkamp
+# Groep: 4ITX1
 
 
 rivier_info = {

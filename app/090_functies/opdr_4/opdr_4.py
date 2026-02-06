@@ -1,6 +1,6 @@
 # Opdracht 1 functies
-# Naam student:
-# Groep:
+# Naam student: Wesley Koerkamp
+# Groep: 4ITX1
 
 
 def volledige_naam(lijst_met_namen):

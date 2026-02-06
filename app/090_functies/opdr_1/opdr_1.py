@@ -1,6 +1,6 @@
 # Opdracht 1 functies
-# Naam student:
-# Groep:
+# Naam student: Wesley Koerkamp
+# Groep: 4ITX1
 
 
 def write_to_file(afile, atext):

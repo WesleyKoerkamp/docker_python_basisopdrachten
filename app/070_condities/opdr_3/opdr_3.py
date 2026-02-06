@@ -1,6 +1,6 @@
 # Opdracht 3 condities
-# Naam student:
-# Groep:
+# Naam student: Wesley Koerkamp
+# Groep: 4ITX1
 
 
 

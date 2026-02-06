@@ -1,6 +1,6 @@
 # Opdracht 2 condities
-# Naam student:
-# Groep:
+# Naam student: Wesley Koerkamp
+# Groep: 4ITX1
 
 # Hier komt je code...
 
