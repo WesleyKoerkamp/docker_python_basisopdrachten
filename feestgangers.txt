@@ -1,0 +1,15 @@
+Voornaam: Wesley
+Achternaam: Koerkamp
+Drank: Cola
+Eten: Pannenkoeken
+
+Voornaam: Alex
+Achternaam: Van der Weide
+Drank: Bier
+Eten: Patat
+
+Voornaam: Giovanni
+Achternaam: Tellegen
+Drank: Water
+Eten: Frikandellen
+
