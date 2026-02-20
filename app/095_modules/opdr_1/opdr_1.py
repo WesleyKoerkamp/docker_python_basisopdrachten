@@ -4,7 +4,18 @@
 
 # importeer de module csv...
 
-def lees_csv_bestand(bestandsnaam):
-    # je code komt hier
-    # het woordje pass hieronder kun je weghalen
-    pass
+from my_modules import csv
+
+def main():
+    bestandsnaam = "gegevens.csv"
+    
+    data = csv.lees_bestand(bestandsnaam)
+    
+    if data:
+        print("Inhoud van het CSV-bestand:")
+        csv.toon_gegevens(data)
+    else:
+        print("Geen gegevens om te tonen.")
+
+if __name__ == "__main__":
+    main()
